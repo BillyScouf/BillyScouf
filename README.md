@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu nome é Andérsio Lopes e atualamente estou estudando sobre o Desenvolvimento Mobile</h2>
+<h2 align="left">Olá, meu nome é Andérsio Lopes e atualmente estou estudando sobre o Desenvolvimento Mobile</h2>
 
 ###
 
