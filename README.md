@@ -1,5 +1,5 @@
 <h2 align="left">Olá, meu nome é Andérsio Lopes e sou apaixonado por tecnologia.</h2>
-<h2 align="left">Sou estudante de Ciência da Computação e aspirante no Desenvolvedor Backend (Java + Spring Boot).</h2>
+<p>Sou estudante de Ciência da Computação e aspirante no Desenvolvedor Backend (Java + Spring Boot).</p>
 
 ###
 
