@@ -9,11 +9,11 @@
 <p align="left">
 
   <a href="https://www.linkedin.com/in/and%C3%A9rsiolopes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Andersio%20Lopes-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn%20Lopes-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
   <a href="mailto:andersiolopes2804@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-andersiolopes2804%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
 
 </p>
